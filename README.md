@@ -36,7 +36,9 @@ https://github.com/kenny107
 https://github.com/da-juzi
 
 马云鹏  A  A
+
 https://github.com/mayunpeng12580
 
-郭星  A
+郭星  A  A
+
 https://github.com/xiao0123
